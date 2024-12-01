@@ -1,0 +1,38 @@
+# Виртуальное окружение
+venv/
+mybotenv/
+
+# Файлы кэша Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Логи
+*.log
+bot_log.txt
+selected_personnel.pdf
+temp_selected_personnel.pdf
+
+# Системные файлы macOS
+.DS_Store
+
+# Файлы шрифтов и другие ресурсы (при необходимости)
+*.ttf
+*.otf
+
+# Конфиденциальные файлы
+credentials.json
+
+# Сгенерированные файлы
+filled_template.pdf
+filled_template.pptx
+contractors.pdf
+
+# Каталоги с файлами
+icons/
+original_templates/
+templates/
+updated_templates/
+
+# Переменные окружения
+.env
