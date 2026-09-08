@@ -25,12 +25,13 @@ The bot can read structured data from Google Sheets, let a user select records t
 - `sheets.py` — Google Sheets integration;
 - `pdf_generator.py` — PDF-related generation helpers.
 
-## More Telegram work
+## Related development work
 
-I build and improve Telegram bots, integrations and automation workflows.
+This repository is one example of my Python/Telegram work. More detailed service pages and cases are published in the portfolio:
 
 - Telegram bot development: https://alexgtup.github.io/telegram-bots/
+- Python development: https://alexgtup.github.io/python-development/
 - Existing project repair and improvements: https://alexgtup.github.io/project-repair/
-- Portfolio and cases: https://alexgtup.github.io/cases/
+- Portfolio cases: https://alexgtup.github.io/cases/
 
 Main portfolio: https://alexgtup.github.io/
