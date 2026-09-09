@@ -268,7 +268,8 @@ async def handle_document(update: Update, context: ContextTypes.DEFAULT_TYPE) ->
 async def show_templates(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     templates = get_template_names()
     if templates:
-        await update.callback_query.message.reply_text(f"Доступные шаблоны:\n{'\n'.join(templates)}")
+        template_list = "\n".join(templates)
+        await update.callback_query.message.reply_text(f"Доступные шаблоны:\n{template_list}")
     else:
         await update.callback_query.message.reply_text("Нет доступных шаблонов.")
 
