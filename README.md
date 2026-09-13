@@ -55,6 +55,7 @@ This is a guard against accidental credential leaks, not a replacement for rotat
 This repository is one example of my Python/Telegram work. More detailed service pages and cases are published in the portfolio:
 
 - Telegram bot development: https://alexgtup.github.io/telegram-bots/
+- Telegram bot for income and expense tracking - Fin Planner case: https://alexgtup.github.io/cases/fin-planner/
 - Python development: https://alexgtup.github.io/python-development/
 - Existing project repair and improvements: https://alexgtup.github.io/project-repair/
 - Portfolio cases: https://alexgtup.github.io/cases/
